@@ -1,0 +1,141 @@
+﻿|20:54:44:211| - Upon connect warning>>>>>
+|20:54:45:114| - APP: Node failed to join network. Retrying ...
+|20:54:45:115| - APP: No event to process! s_eDeviceState = 0
+|20:54:45:258| - APP: No event to process! s_eDeviceState = 0
+|20:54:45:406| - APP: Network discovery failed error=234
+|20:54:45:406| - APP: No event to process! s_eDeviceState = 0
+|20:54:45:554| - APP: Network discovery failed error=234
+|20:54:45:555| - APP: No event to process! s_eDeviceState = 0
+|20:54:45:698| - APP: Network discovery failed error=234
+|20:54:45:699| - APP: No event to process! s_eDeviceState = 0
+|20:54:45:847| - APP: Network discovery failed error=234
+|20:54:45:848| - APP: No event to process! s_eDeviceState = 0
+|20:54:45:991| - APP: No event to process! s_eDeviceState = 0
+|20:54:46:061| - APP: No event to process! s_eDeviceState = 1
+|20:54:46:061| - 
+|20:54:46:061| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:54:46:138| - APP: Network discovery failed error=234
+|20:54:46:138| - APP: No event to process! s_eDeviceState = 0
+|20:54:46:282| - APP: No event to process! s_eDeviceState = 0
+|20:54:46:430| - APP: Network discovery failed error=234
+|20:54:46:430| - APP: No event to process! s_eDeviceState = 0
+|20:54:46:575| - APP: No event to process! s_eDeviceState = 0
+|20:54:46:717| - APP: No event to process! s_eDeviceState = 0
+|20:54:46:862| - APP: No event to process! s_eDeviceState = 0
+|20:54:47:004| - APP: No event to process! s_eDeviceState = 0
+|20:54:47:148| - APP: Network discovery failed error=234
+|20:54:47:149| - APP: No event to process! s_eDeviceState = 0
+|20:54:47:297| - APP: Network discovery failed error=234
+|20:54:47:298| - APP: No event to process! s_eDeviceState = 0
+|20:54:47:468| - APP: Unscanned channels 00000000
+|20:54:47:468| -         APP: Ext PAN ID = 00124b0003c5ab68
+|20:54:47:469| -         APP: Channel = 14
+|20:54:47:469| -         APP: Stack Profile = 2
+|20:54:47:469| -         APP: Zigbee Version = 2
+|20:54:47:469| -         APP: Permit Joining = 1
+|20:54:47:470| -         APP: Router Capacity = 1
+|20:54:47:470| -         APP: End Device Capacity = 1
+|20:54:47:470| - APP: Trying Joining network
+|20:54:47:471| - APP: Joining network
+|20:54:51:026| - APP: Node failed to join network. Retrying ...
+|20:54:51:027| - APP: No event to process! s_eDeviceState = 0
+|20:54:51:069| - APP: No event to process! s_eDeviceState = 1
+|20:54:51:069| - 
+|20:54:59:069| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:54:51:165| - APP: No event to process! s_eDeviceState = 0
+|20:54:51:318| - APP: Network discovery failed error=234
+|20:54:51:318| - APP: No event to process! s_eDeviceState = 0
+|20:54:51:467| - APP: Network discovery failed error=234
+|20:54:51:467| - APP: No event to process! s_eDeviceState = 0
+|20:54:51:615| - APP: Network discovery failed error=234
+|20:54:51:615| - APP: No event to process! s_eDeviceState = 0
+|20:54:51:758| - APP: No event to process! s_eDeviceState = 0
+|20:54:51:901| - APP: No event to process! s_eDeviceState = 0
+|20:54:52:046| - APP: Network discovery failed error=234
+|20:54:52:047| - APP: No event to process! s_eDeviceState = 0
+|20:54:52:189| - APP: No event to process! s_eDeviceState = 0
+|20:54:52:339| - APP: Network discovery failed error=234
+|20:54:52:340| - APP: No event to process! s_eDeviceState = 0
+|20:54:52:482| - APP: No event to process! s_eDeviceState = 0
+|20:54:52:624| - APP: No event to process! s_eDeviceState = 0
+|20:54:52:768| - APP: No event to process! s_eDeviceState = 0
+|20:54:52:911| - APP: No event to process! s_eDeviceState = 0
+|20:54:53:056| - APP: No event to process! s_eDeviceState = 0
+|20:54:53:204| - APP: Network discovery failed error=234
+|20:54:53:205| - APP: No event to process! s_eDeviceState = 0
+|20:54:53:361| - APP: Unscanned channels 00000000
+|20:54:53:361| -         APP: Ext PAN ID = 00124b0003c5ab68
+|20:54:53:361| -         APP: Channel = 14
+|20:54:53:361| -         APP: Stack Profile = 2
+|20:54:53:362| -         APP: Zigbee Version = 2
+|20:54:53:366| -         APP: Permit Joining = 1
+|20:54:53:366| -         APP: Router Capacity = 1
+|20:54:53:366| -         APP: End Device Capacity = 1
+|20:54:53:367| - APP: Trying Joining network
+|20:54:53:367| - APP: Joining network
+|20:54:56:080| - APP: No event to process! s_eDeviceState = 2
+|20:54:56:080| - 
+|20:54:56:081| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:54:56:932| - APP: Node failed to join network. Retrying ...
+|20:54:56:932| - APP: No event to process! s_eDeviceState = 0
+|20:54:57:075| - APP: No event to process! s_eDeviceState = 0
+|20:54:57:224| - APP: Network discovery failed error=234
+|20:54:57:224| - APP: No event to process! s_eDeviceState = 0
+|20:54:57:372| - APP: Network discovery failed error=234
+|20:54:57:372| - APP: No event to process! s_eDeviceState = 0
+|20:54:57:515| - APP: Network discovery failed error=234
+|20:54:57:515| - APP: No event to process! s_eDeviceState = 0
+|20:54:57:659| - APP: No event to process! s_eDeviceState = 0
+|20:54:57:802| - APP: No event to process! s_eDeviceState = 0
+|20:54:57:952| - APP: Network discovery failed error=234
+|20:54:57:952| - APP: No event to process! s_eDeviceState = 0
+|20:54:58:095| - APP: No event to process! s_eDeviceState = 0
+|20:54:58:244| - APP: Network discovery failed error=234
+|20:54:58:244| - APP: No event to process! s_eDeviceState = 0
+|20:54:58:387| - APP: No event to process! s_eDeviceState = 0
+|20:54:58:531| - APP: No event to process! s_eDeviceState = 0
+|20:54:58:674| - APP: Network discovery failed error=234
+|20:54:58:674| - APP: No event to process! s_eDeviceState = 0
+|20:55:01:090| - APP: No event to process! s_eDeviceState = 1
+|20:55:01:090| - 
+|20:55:01:090| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:06:101| - APP: No event to process! s_eDeviceState = 1
+|20:55:06:101| - 
+|20:55:06:101| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:11:114| - APP: No event to process! s_eDeviceState = 1
+|20:55:11:114| - 
+|20:55:11:115| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:16:124| - APP: No event to process! s_eDeviceState = 1
+|20:55:16:124| - 
+|20:55:16:125| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:21:135| - APP: No event to process! s_eDeviceState = 1
+|20:55:21:135| - 
+|20:55:21:135| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:26:147| - APP: No event to process! s_eDeviceState = 1
+|20:55:26:147| - 
+|20:55:26:147| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:31:157| - APP: No event to process! s_eDeviceState = 1
+|20:55:31:157| - 
+|20:55:31:157| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:36:168| - APP: No event to process! s_eDeviceState = 1
+|20:55:36:168| - 
+|20:55:36:169| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:41:178| - APP: No event to process! s_eDeviceState = 1
+|20:55:41:178| - 
+|20:55:41:178| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:46:191| - APP: No event to process! s_eDeviceState = 1
+|20:55:46:191| - 
+|20:55:46:192| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:55:51:214| - APP: No event to process! s_eDeviceState = 1
+|20:55:51:214| - 
+|20:55:51:214| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OS Error 7, offending object handle = 0x04000210
+|20:55:51:215| - Currently active task handle = 0x040003c4
+|20:55:51:215| - Currently active ISR fn address = 0x000961db
+|20:55:51:217| - !!!!!!!!!!!!!
+|20:55:51:218| - APP: Unexpected event in E_NETWORK_DISCOVERY - 21
+|20:55:56:229| - APP: No event to process! s_eDeviceState = 1
+|20:55:56:229| - 
+|20:55:56:229| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|20:56:01:240| - APP: No event to process! s_eDeviceState = 1
+|20:56:01:240| - 
+|20:56:01:240| -  APP_Test1Timer EXPIRED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
